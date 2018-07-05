@@ -1,0 +1,107 @@
+<style>
+
+
+  .panel-heading {
+  -moz-box-shadow: inset 0 -1px 30px rgba(0,0,0,0.5);
+-webkit-box-shadow: inset 0 -1px 30px rgba(0,0,0,0.5);
+box-shadow: inset 0 -1px 30px rgba(0,0,0,0.5);
+color: #FFFFFF;
+background-color: #333333;
+    padding: 5px 15px;
+     border-bottom: 0px ;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+	}
+	
+	#aboutme.panel-body{
+	background-color: white!important;
+	}
+
+
+.imagedescription p {
+margin-top:10px;
+line-height: 1.75;
+padding-right: 10px;
+}
+
+
+
+.panel-default, .panel {
+margin-top: 10px;
+border-width: 0px;
+border-radius: 5px;
+}
+.panel-default > .panel-heading {
+    color: #FFFFFF;
+    background-color:#344152!important;
+    border-color: transparent;
+	border: 0px;
+	padding: 5px 0px 5px 20px;
+	border-radius: 0px;
+
+}
+.panel-group .panel {
+    margin-bottom: 0;
+    border-radius: 0px;
+	}
+#navimg img
+{
+margin-left:5px;
+margin-top: 5px;
+border: 0px;
+}
+  .container-fluid {
+  	background-color:#6E7B8B;
+    border-left: #344152 0px solid;
+	padding-left:15px; 
+	border-radius: 10px;
+
+	}
+  
+  h4{
+  font-size: 12pt;
+  letter-spacing: 2px;
+  }
+  
+h2 {
+color: white!important;
+font-size: 18px!important;
+padding: 0px;
+margin-top: 10px;
+margin-bottom: 0px;
+
+
+}
+  
+  .navbar-brand {
+    padding: 5px 15px;
+    line-height: 20px;
+	font-size: 24px;
+
+	}
+	.image {
+	border-radius: 25px;
+    padding: 10px; 
+    width: 150px;
+    height: 117px;
+	margin: 0px 5px 5px 4px;
+	}
+	
+	.portholder {
+	border-radius: 10px;
+background-color: white;
+margin: 10px;
+  
+	}
+
+.button {
+border: 0px;
+background-color: transparent;
+}
+
+#contentpanel.panel-body {
+background-color: #344152!important;
+padding: 0px 20px 5px 20px;
+}
+
+  </style>
